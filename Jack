@@ -1,0 +1,6 @@
+public class arun{
+public static void main(String[] args){
+int a=06;
+system.out.println(a);
+}
+}
